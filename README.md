@@ -2,19 +2,19 @@ A Spring Boot web application built to manage student records efficiently. This 
 
 🚀 Features
 
-➕ Add new students
+ Add new students
 
-✏️ Update existing student details
+ Update existing student details
 
-❌ Delete students
+ Delete students
 
-👁️ View all students
+ View all students
 
-🗃️ Store data in MySQL database
+ Store data in MySQL database
 
-🧩 Responsive design using Bootstrap
+ Responsive design using Bootstrap
 
-📦 Layered architecture (Controller → Service → Repository → Entity)
+ Layered architecture (Controller → Service → Repository → Entity)
 
 🛠️ Tech Stack
 
